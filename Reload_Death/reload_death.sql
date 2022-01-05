@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN is_dead bool DEFAULT 0
